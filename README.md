@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 Event Search and Recommendation Engine is a full stack project which including front-end and back-end, whose purpose is to recommend events based on current geo-location. Thanks to TicketMaster, who provides useful APIs, which were used in this project. The databases I used in this project are mysql and mongodb. It can be exchanged easily in my project. My project has already deployed to Amazon EC2, click [demo link](http://13.58.77.192/Titan/) to visit(userid:1111 pwd:2222 for demo).
 
 ## Tech Stack
@@ -34,6 +34,9 @@ containing your unzipped version of Tomcat 9.0.
 
 Run the imported project by “right-clicking” on the new project and selecting “Run As -> Run on Server. <br>
 
+## Usage/Quick Start
+Login using demo account and password(1111/2222), like an event, enjoy!:+1:
+
 ## Screenshots
 login page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/login.png)
@@ -44,12 +47,9 @@ favorite page
 recommendation page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/recommendation.png)
 
-## Usage/Quick Start
-Login using demo account and password(1111/2222), like an event, enjoy!:+1:
-
 ## Known bugs
 1. when change to mongoDB as backend database, the unfavorite function doesn't work, wait to be fixed.
-2. If I log in as user A, if the session has not time out, I can use other users(e.g. user B) to visit the content of user A, not safe.
+2. If I log in as user A, if the session has not time out, I can use other users(e.g. user B) to visit the content of user A, not safe.<br>
 If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
 
 ## Todo list
