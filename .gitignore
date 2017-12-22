@@ -1,0 +1,7 @@
+/build/
+/classes/
+/.classpath
+/.settings/
+/.project
+META-INF/
+.DS_Store
