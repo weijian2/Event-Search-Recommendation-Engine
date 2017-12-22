@@ -15,10 +15,10 @@ In this project, I recommend events based on categories that the user has favori
 * MySQL
 
 ## Installation
-Clone the GitHub repository and then import Zero.war into your eclipse.
+Clone the GitHub repository and then import Event-Search-Recommendation-Engine.war into your eclipse.
 
 ```
-git clone https://github.com/weijian2/Zero
+git clone https://github.com/weijian2/Event-Search-Recommendation-Engine
 ```
 To import WAR file into Eclipse JEE, click on File -> Import. Select Web -> WAR File.
 * **WAR** file: Provide the full pathname of the WAR file on your computer.
@@ -36,13 +36,13 @@ Run the imported project by “right-clicking” on the new project and selectin
 
 ## Screenshots
 login page
-![](https://github.com/weijian2//raw/master/demoPics/login.png)
+![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/login.png)
 register page
-![](https://github.com/weijian2/Social-App-By-J2EE/raw/master/demoPics/nearby.png)
+![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/nearby.png)
 home page
-![](https://github.com/weijian2/Social-App-By-J2EE/raw/master/demoPics/favorite.png)
+![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/favorite.png)
 visitor page
-![](https://github.com/weijian2/Social-App-By-J2EE/raw/master/demoPics/recommendation.png)
+![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/recommendation.png)
 
 ## Usage/Quick Start
 Login using demo account and password(1111/2222), like an event, enjoy!:+1:
