@@ -37,11 +37,11 @@ Run the imported project by “right-clicking” on the new project and selectin
 ## Screenshots
 login page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/login.png)
-register page
+nearby page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/nearby.png)
-home page
+favorite page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/favorite.png)
-visitor page
+recommendation page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/recommendation.png)
 
 ## Usage/Quick Start
