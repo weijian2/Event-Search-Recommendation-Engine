@@ -1,5 +1,5 @@
 # Introduction
-Event Search and Recommendation Engine is a full stack project which including front-end and back-end, whose purpose is to recommend events based on current geo-location. Thanks to TicketMaster, who provides useful APIs, which were used in this project. The databases I used in this project are mysql and mongodb. It can be exchanged easily in my project. My project has already deployed to Amazon EC2, click [demo link](http://13.58.77.192/Titan/) to visit(userid:1111 pwd:2222 for demo).
+Event Search and Recommendation Engine is a full stack project powered by TicketMaster, whose purpose is to recommend events based on logged in user's current geo-location. Thanks to TicketMaster, who provides useful APIs, which were used in this project. This project has already been deployed to Amazon EC2, click [demo link](http://54.202.63.63/Event-Search-Recommendation-Engine/) to visit(userid:1111 pwd:2222 for demo).
 
 ## Tech Stack
 * HTML/CSS/JavaScript/JAVA
@@ -58,8 +58,8 @@ If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
 
 ## Deployment
 Deployment Environment: Amazon EC2 <br>
-[demo link](https://54.214.127.64/Social-App-By-J2EE) <br>
-**Notice: since I use a self-signed certificate, browser may show that this website is not secure, just ignore that and go on.** <br>
+[demo link](http://54.202.63.63/Event-Search-Recommendation-Engine/) <br>
+**Notice: Since I didn't configure SSL, so this web app is running on HTTP protocol not HTTPs.** <br>
 (Please contact me at weijian1@andrew.cmu.edu if this instance is not running)
 
 ## Change Log
