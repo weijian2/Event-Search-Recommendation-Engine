@@ -6,7 +6,12 @@ Event Search and Recommendation Engine is a full stack project powered by Ticket
 * MYSQL/MongoDB
 
 ## Recommendation Algorithm(content-based)
-In this project, I recommend events based on categories that the user has favorited. By knowing the category of the item the user favorited, I recommend some events belong to this category nearby this user. 
+In this project, I recommend events based on categories that the user has favorited. By knowing the category of the item the user favorited, I recommend some events belong to this category nearby this user. Concrete steps are as follow. <br>
+1. Fetch all the events (ids) this user has visited. 
+2. Given all these events, fetch the categories of these events. 
+3. Given these categories, find what are the events that belong to them. 
+4. Filter events that this user has visited. 
+5. Sort the recommendation list on ascending order of distance between recommended events's locations and user's location.
 
 ## Requirements
 * Apache Tomat v9.0
