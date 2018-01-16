@@ -5,7 +5,7 @@ Event Search and Recommendation Engine is a full stack project powered by Ticket
 When I need to buy tickets, I often ask myself "what websites I will use to buy a ticket". After searching for some websites, I found that most ticket websites are just ticket listing websites, instead of a recommendation system. The reasons why I think ticket websites need a recommendation system are listed below.
 1. Events most people in US like but you may not like.
 2. Events you may like but can’t afford.
-3. Events most people don’t know but you may like.
+3. Events most people don’t know but you may like.<br>
 Based on above reasons, I decide to make a personalization based recommendation system for event search.
 
 ## Tech Stack
