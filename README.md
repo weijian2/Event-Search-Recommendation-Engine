@@ -1,6 +1,13 @@
 # Introduction
 Event Search and Recommendation Engine is a full stack project powered by TicketMaster, whose purpose is to recommend events based on logged in user's current geo-location. Thanks to TicketMaster, who provides useful APIs, which were used in this project. This project has already been deployed to Amazon EC2, click [demo link](http://54.202.63.63/Event-Search-Recommendation-Engine/) to visit(userid:1111 pwd:2222 for demo).
 
+## Why doing this project
+When I need to buy tickets, I often ask myself "what websites I will use to buy a ticket". After searching for some websites, I found that most ticket websites are just ticket listing websites, instead of a recommendation system. The reasons why I think ticket websites need a recommendation system are listed below.
+1. Events most people in US like but you may not like.
+2. Events you may like but can’t afford.
+3. Events most people don’t know but you may like.
+Based on above reasons, I decide to make a personalization based recommendation system for event search.
+
 ## Tech Stack
 * HTML/CSS/JavaScript/JAVA
 * MYSQL/MongoDB
