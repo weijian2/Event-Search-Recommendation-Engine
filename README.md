@@ -50,6 +50,8 @@ Run the imported project by “right-clicking” on the new project and selectin
 Login using demo account and password(1111/2222), like an event, enjoy!:+1:
 
 ## Screenshots
+logic layer of this project
+![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/logic.png)
 login page
 ![](https://github.com/weijian2/Event-Search-Recommendation-Engine/raw/master/demoPics/login.png)
 nearby page
